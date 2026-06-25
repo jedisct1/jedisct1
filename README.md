@@ -1,4 +1,4 @@
-# Frank Denis (`@jedisct1`)
+# Hi, I'm Frank!
 
 I build cryptographic software, privacy-focused network services, and small systems tools with an emphasis on boring APIs, portable code, and implementations people can actually ship.
 
