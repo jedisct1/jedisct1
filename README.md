@@ -52,7 +52,7 @@ All project links point to GitHub repositories.
 
 ### Testing, Benchmarks, and Security Research
 
-- [`crucible`](https://github.com/jedisct1/crucible), [`ed25519-speccheck`](https://github.com/jedisct1/ed25519-speccheck), [`jumpinjack`](https://github.com/jedisct1/jumpinjack), [`aes-torture`](https://github.com/jedisct1/aes-torture), [`openssl-family-bench`](https://github.com/jedisct1/openssl-family-bench), [`malicious-rsa-public-keys`](https://github.com/jedisct1/malicious-rsa-public-keys), [`blacknurse`](https://github.com/jedisct1/blacknurse), [`CVE-2025-65945-poc`](https://github.com/jedisct1/CVE-2025-65945-poc), [`react2shell-exploit`](https://github.com/jedisct1/react2shell-exploit)
+- [`ed25519-speccheck`](https://github.com/jedisct1/ed25519-speccheck), [`jumpinjack`](https://github.com/jedisct1/jumpinjack), [`aes-torture`](https://github.com/jedisct1/aes-torture), [`openssl-family-bench`](https://github.com/jedisct1/openssl-family-bench), [`malicious-rsa-public-keys`](https://github.com/jedisct1/malicious-rsa-public-keys), [`blacknurse`](https://github.com/jedisct1/blacknurse), [`CVE-2025-65945-poc`](https://github.com/jedisct1/CVE-2025-65945-poc), [`react2shell-exploit`](https://github.com/jedisct1/react2shell-exploit)
 - Protocol drafts and notes: [`draft-irtf-cfrg-hpke`](https://github.com/jedisct1/draft-irtf-cfrg-hpke), [`draft-irtf-cfrg-aead-properties`](https://github.com/jedisct1/draft-irtf-cfrg-aead-properties), [`draft-wood-cfrg-eddsa-blinding`](https://github.com/jedisct1/draft-wood-cfrg-eddsa-blinding), [`draft-denis-tls-aegis`](https://github.com/jedisct1/draft-denis-tls-aegis), [`draft-denis-xet`](https://github.com/jedisct1/draft-denis-xet)
 
 ## Encrypted DNS, Privacy, and Networking
