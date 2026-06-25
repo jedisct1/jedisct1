@@ -6,6 +6,10 @@ Most of my public work is cryptography engineering: authenticated encryption, se
 
 I also publish AI models and datasets on [Hugging Face](https://huggingface.co/jedisct1), and 3D models on [Printables](https://www.printables.com/@jedisct1).
 
+If this work is useful to you or your organization, sponsorship helps keep it maintained.
+
+[**Sponsor my work**](https://github.com/sponsors/jedisct1)
+
 ## Widely Used Projects
 
 | Project                                                                    | What it is                                                                                 |
