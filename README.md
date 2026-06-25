@@ -2,23 +2,21 @@
 
 I build cryptographic software, privacy-focused network services, and small systems tools with an emphasis on boring APIs, portable code, and implementations people can actually ship.
 
-Most of my public work is cryptography engineering: authenticated encryption, secure protocols, language bindings, WebAssembly/WASI portability, encrypted DNS, and tools that make misuse harder. This page highlights public projects updated since 2021, grouped by the kind of expertise they represent. One-off pull-request forks and stale downstream forks are intentionally left out.
-
-All project links point to GitHub repositories.
+Most of my public work is cryptography engineering: authenticated encryption, secure protocols, language bindings, WebAssembly/WASI portability, encrypted DNS, and tools that make misuse harder. All these projects are maintained, some have been for 25+ years.
 
 ## Widely Used Projects
 
-| Project | What it is |
-| --- | --- |
-| [`libsodium`](https://github.com/jedisct1/libsodium) | A modern, portable, easy-to-use cryptography library used across many ecosystems. |
-| [`dnscrypt-proxy`](https://github.com/DNSCrypt/dnscrypt-proxy) | A flexible encrypted DNS proxy supporting DNSCrypt, DoH, ODoH, relays, and anonymized DNS. |
-| [`minisign`](https://github.com/jedisct1/minisign) | A small tool for signing files and verifying signatures. |
-| [`dsvpn`](https://github.com/jedisct1/dsvpn) | A deliberately simple VPN for people who want the smallest useful thing. |
-| [`piknik`](https://github.com/jedisct1/piknik) | Copy and paste anything over the network with encryption built in. |
-| [`libhydrogen`](https://github.com/jedisct1/libhydrogen) | A compact cryptography library designed for constrained systems. |
-| [`libsodium.js`](https://github.com/jedisct1/libsodium.js) | libsodium compiled to WebAssembly and JavaScript with convenient wrappers. |
-| [`encrypted-dns-server`](https://github.com/DNSCrypt/encrypted-dns-server) | A high-performance encrypted DNS server for DNSCrypt, DoH, and ODoH deployments. |
-| [`pure-ftpd`](https://github.com/jedisct1/pure-ftpd) | A portable FTP server with a long security and operations history. |
+| Project                                                                    | What it is                                                                                 |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [`libsodium`](https://github.com/jedisct1/libsodium)                       | A modern, portable, easy-to-use cryptography library used across many ecosystems.          |
+| [`dnscrypt-proxy`](https://github.com/DNSCrypt/dnscrypt-proxy)             | A flexible encrypted DNS proxy supporting DNSCrypt, DoH, ODoH, relays, and anonymized DNS. |
+| [`minisign`](https://github.com/jedisct1/minisign)                         | A small tool for signing files and verifying signatures.                                   |
+| [`dsvpn`](https://github.com/jedisct1/dsvpn)                               | A deliberately simple VPN for people who want the smallest useful thing.                   |
+| [`piknik`](https://github.com/jedisct1/piknik)                             | Copy and paste anything over the network with encryption built in.                         |
+| [`libhydrogen`](https://github.com/jedisct1/libhydrogen)                   | A compact cryptography library designed for constrained systems.                           |
+| [`libsodium.js`](https://github.com/jedisct1/libsodium.js)                 | libsodium compiled to WebAssembly and JavaScript with convenient wrappers.                 |
+| [`encrypted-dns-server`](https://github.com/DNSCrypt/encrypted-dns-server) | A high-performance encrypted DNS server for DNSCrypt, DoH, and ODoH deployments.           |
+| [`pure-ftpd`](https://github.com/jedisct1/pure-ftpd)                       | A portable FTP server with a long security and operations history.                         |
 
 ## Cryptography
 
