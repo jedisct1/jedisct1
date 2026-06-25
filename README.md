@@ -4,6 +4,8 @@ I build cryptographic software, privacy-focused network services, and small syst
 
 Most of my public work is cryptography engineering: authenticated encryption, secure protocols, language bindings, WebAssembly/WASI portability, encrypted DNS, and tools that make misuse harder. All these projects are maintained, some have been for 25+ years.
 
+I also publish AI models and datasets on Hugging Face at [`jedisct1`](https://huggingface.co/jedisct1), and 3D models on Printables at [`@jedisct1`](https://www.printables.com/@jedisct1).
+
 ## Widely Used Projects
 
 | Project                                                                    | What it is                                                                                 |
